@@ -30,7 +30,6 @@ I’m a AWS cloud engineer, specializing in creating well-architected, resilient
 ![](https://img.shields.io/badge/AWS_CDK-288D46?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📙 My Latest Blog Articles
 
 
 ## 👾 Socials
