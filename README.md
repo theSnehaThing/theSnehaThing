@@ -35,5 +35,4 @@ I’m a AWS cloud engineer, specializing in creating well-architected, resilient
 ## 👾 Socials
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesnehathing)
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
-[![]()](https://github.com/thesnehathing)
+[![](icon)](https://github.com/thesnehathing)
