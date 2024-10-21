@@ -2,6 +2,9 @@
 
 https://github.com/user-attachments/assets/4e4e3b3b-b7ba-4c1c-9e93-5ebe395fc257
 
+![image](https://github.com/user-attachments/assets/817eb542-7a29-46a7-b304-24e6a1f050fa)
+
+
 
 
 # Hi, I'm Sneha!
