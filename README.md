@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/4e4e3b3b-b7ba-4c1c-9e93-5ebe395fc257
 
 # Hi, I'm Sneha!
 
-I’m a AWS cloud engineer, specializing in creating well-architected, resilient, and cost-optimized AWS solutions designed to scale for banking .
+AWS Cloud Enthusiast | Automation Ace | Crafting Scalable Cloud Apps with Lambda, EC2, RDS | Building Robust AWS Infrastructure & Slick Automation Tools | DevOps Explorer | Always Coding for Uptime!
 
 > [!Few more details...]
 >
