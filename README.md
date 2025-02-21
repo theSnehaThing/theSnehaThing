@@ -19,7 +19,8 @@ AWS Cloud Enthusiast | Automation Ace | Crafting Scalable Cloud Apps with Lambda
 > #### What I actually do:
 >
 >
-> *My mission: ...*
+> I’m an IT Analyst specializing in DevOps and AWS. I enjoy using infrastructure as code to boost efficiency
+and simplify deployments. Looking to jump into projects that push innovation and scalability forward.
 
 
 
